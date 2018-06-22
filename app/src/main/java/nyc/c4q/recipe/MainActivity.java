@@ -22,8 +22,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         title = findViewById(R.id.title);
-        searchField= findViewById(R.id.search_field);
-        search = findViewById(R.id.button);
+//        searchField= findViewById(R.id.search_field);
+ //       search = findViewById(R.id.button);
 
 
 

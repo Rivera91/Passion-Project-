@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Recipe</string>
+    <string-array name="Base">
+        <item>Select A Base</item>
+        <item>Chicken</item>
+        <item>Pork</item>
+        <item>Seafood</item>
+        <item>Steak</item>
+        <item>Vegetarian</item>
+    </string-array>
 </resources>
